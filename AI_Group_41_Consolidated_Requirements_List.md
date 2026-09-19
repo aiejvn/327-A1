@@ -5,4 +5,4 @@
 |  3 |     |     |     |     |     |     |     |     |
 
 # Note: do not fill in other parts of table. Only fill in requirement (as written) + source
-    - source may be optional or just 'AI'
+    - source may be optional or just 'AI'. need to ask
